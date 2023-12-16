@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.dimg{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-transform: uppercase;
+}
+.post_img {
+    width: 100%;
+    border: 5px solid white;
+}
